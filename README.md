@@ -1,4 +1,4 @@
-# Game Folder Cleanup Tool
+# Wallpaper Engine Workshop Game Folder Cleanup Tool
 
 **A smart, interactive PowerShell script to identify and manage duplicate game folders.** This tool was specifically designed for users who have multiple versions of the same game downloaded (e.g., from Steam Workshop, Wallpaper Engine, RPG Maker, Unity, or Ren'Py). It automatically detects older versions of the same game, presents them to you for a side-by-side comparison, and safely moves the duplicates to a trash folder upon your confirmation.
 
